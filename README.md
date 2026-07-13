@@ -17,6 +17,7 @@
 ## For your AI agent
 
 - 🤖 **[industrial-engineering-ai-skills](https://github.com/gulmezeren2-byte/industrial-engineering-ai-skills)** — the judgment layer of the series as a full method pack: 7 skills, 4 role agents, always-on data-hygiene rules and artifact templates. Pitfalls included.
+- 🔧 **[opsaudit](https://github.com/gulmezeren2-byte/opsaudit)** — the engine room: a JSON-only CLI (OTIF, forecast backtests, ABC-XYZ, Pareto) where every result carries a mandatory honesty block. 8 end-to-end tests.
 
 ## Also
 
