@@ -16,7 +16,7 @@
 
 ## For your AI agent
 
-- 🤖 **[industrial-engineering-ai-skills](https://github.com/gulmezeren2-byte/industrial-engineering-ai-skills)** — the judgment layer of the series, packaged as agent skills: OTIF audits, forecast reviews, ABC-XYZ, safety stock, Pareto discipline, reporting contracts. Pitfalls included.
+- 🤖 **[industrial-engineering-ai-skills](https://github.com/gulmezeren2-byte/industrial-engineering-ai-skills)** — the judgment layer of the series as a full method pack: 7 skills, 4 role agents, always-on data-hygiene rules and artifact templates. Pitfalls included.
 
 ## Also
 
