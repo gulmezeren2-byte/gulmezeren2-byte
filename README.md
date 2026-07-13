@@ -9,7 +9,7 @@
 
 *Metrics should describe reality, not decorate slides.*
 
-1. **[otif-analytics](https://github.com/gulmezeren2-byte/otif-analytics)** — the reported on-time KPI says 98%; the customer feels 59%. The five definition choices that hide the gap.
+1. **[otif-analytics](https://github.com/gulmezeren2-byte/otif-analytics)** — the reported on-time KPI says 98%; the customer feels 59%. The four definition choices that hide the gap.
 2. **[forecast-accuracy-lab](https://github.com/gulmezeren2-byte/forecast-accuracy-lab)** — MAPE silently drops zero-demand months and flips model rankings; WMAPE, bias and FVA tell the truth.
 3. **[abc-xyz-inventory](https://github.com/gulmezeren2-byte/abc-xyz-inventory)** — the safety-stock formula promises 95% and delivers 83% on volatile SKUs. Segment before you standardize.
 4. **[auto-report-pipeline](https://github.com/gulmezeren2-byte/auto-report-pipeline)** — the capstone: honest metrics, computed the same way and delivered every Monday, untouched by hands.
@@ -23,4 +23,15 @@
 - 📚 Curator of **[awesome-industrial-engineering](https://github.com/gulmezeren2-byte/awesome-industrial-engineering)** — every entry hand-picked for practitioner value
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/erengulmez)
 
-🇹🇷 *Endüstri mühendisiyim; doğru soruyu tasarlar, modern araçları yöneterek veriyi karara çeviririm.*
+## 🇹🇷 Türkçe
+
+**Endüstri mühendisiyim (İstanbul).** Lojistik ve tedarik zinciri verisini karara çeviririm: önce doğru soruyu tasarlarım, sonra modern araçları — otomasyon, analitik, yapay zeka — yöneterek hayata geçiririm; yöntem, kalite çıtası ve iş yorumu her zaman bende kalır.
+
+***Ölçüm dürüstlüğü* serim** — metrikler gerçeği anlatmalı, slaytları süslememeli:
+
+1. **[otif-analytics](https://github.com/gulmezeren2-byte/otif-analytics)** — rapor edilen zamanında-teslimat %98 derken müşterinin yaşadığı %59; farkı gizleyen dört tanım tercihi. ([Türkçesi](https://github.com/gulmezeren2-byte/otif-analytics/blob/main/README.tr.md))
+2. **[forecast-accuracy-lab](https://github.com/gulmezeren2-byte/forecast-accuracy-lab)** — MAPE sıfır talepli ayları sessizce düşürür ve model sıralamasını değiştirir; doğruyu WMAPE, yanlılık ve FVA söyler. ([Türkçesi](https://github.com/gulmezeren2-byte/forecast-accuracy-lab/blob/main/README.tr.md))
+3. **[abc-xyz-inventory](https://github.com/gulmezeren2-byte/abc-xyz-inventory)** — emniyet stoku formülü %95 vaat eder, oynak ürünlerde %83 teslim eder. Standartlaştırmadan önce segmentlere ayırın. ([Türkçesi](https://github.com/gulmezeren2-byte/abc-xyz-inventory/blob/main/README.tr.md))
+4. **[auto-report-pipeline](https://github.com/gulmezeren2-byte/auto-report-pipeline)** — final: dürüst metrikler, her Pazartesi aynı şekilde, el değmeden. ([Türkçesi](https://github.com/gulmezeren2-byte/auto-report-pipeline/blob/main/README.tr.md))
+
+Ayrıca: yapay zeka ajanları için **[endüstri mühendisliği becerileri](https://github.com/gulmezeren2-byte/industrial-engineering-ai-skills)** ve alanın ücretsiz kaynaklarını derlediğim **[awesome-industrial-engineering](https://github.com/gulmezeren2-byte/awesome-industrial-engineering)** listesinin küratörlüğü.
