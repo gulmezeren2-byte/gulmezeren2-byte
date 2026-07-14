@@ -9,6 +9,8 @@
 
 *Metrics should describe reality, not decorate slides.*
 
+<img src="https://raw.githubusercontent.com/gulmezeren2-byte/otif-analytics/main/charts/metric_ladder.svg" alt="The same deliveries, five definitions: 98% reported vs 59% OTIF" width="720">
+
 1. **[otif-analytics](https://github.com/gulmezeren2-byte/otif-analytics)** — the reported on-time KPI says 98%; the customer feels 59%. The four definition choices that hide the gap.
 2. **[forecast-accuracy-lab](https://github.com/gulmezeren2-byte/forecast-accuracy-lab)** — MAPE silently drops zero-demand months and flips model rankings; WMAPE, bias and FVA tell the truth.
 3. **[abc-xyz-inventory](https://github.com/gulmezeren2-byte/abc-xyz-inventory)** — the safety-stock formula promises 95% and delivers 83% on volatile SKUs. Segment before you standardize.
