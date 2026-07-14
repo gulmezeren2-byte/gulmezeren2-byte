@@ -1,6 +1,6 @@
 # Eren Gülmez
 
-**Industrial Engineer · İstanbul** — I turn logistics & supply chain data into decisions.
+**Industrial Engineer · TURKEY** — I turn logistics & supply chain data into decisions.
 
 - 🎯 I design the questions first: KPI architecture, delivery performance (OTIF), demand & inventory analytics
 - 🛠️ I direct modern tooling — automation, analytics, AI — while the strategy, the methodology and the quality bar stay with me
