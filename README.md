@@ -15,7 +15,8 @@
 2. **[forecast-accuracy-lab](https://github.com/gulmezeren2-byte/forecast-accuracy-lab)** — MAPE silently drops zero-demand months and flips model rankings; WMAPE, bias and FVA tell the truth.
 3. **[abc-xyz-inventory](https://github.com/gulmezeren2-byte/abc-xyz-inventory)** — the safety-stock formula promises 95% and delivers 83% on volatile SKUs. Segment before you standardize.
 4. **[auto-report-pipeline](https://github.com/gulmezeren2-byte/auto-report-pipeline)** — the capstone: honest metrics, computed the same way and delivered every Monday, untouched by hands.
-5. **[forecast-autoresearch](https://github.com/gulmezeren2-byte/forecast-autoresearch)** — the live experiment: can an AI agent honestly beat naive forecasting? Sealed holdout, one editable file, a human-directed program. The bar: **+6.79**.
+5. **[forecast-autoresearch](https://github.com/gulmezeren2-byte/forecast-autoresearch)** — the live experiment: can an AI agent honestly beat naive forecasting? Sealed holdout, one editable file, a human-directed program. The bar was **+6.79**; two cycles and ten experiments later: **+8.13**.
+6. **[erp-report-engine](https://github.com/gulmezeren2-byte/erp-report-engine)** — the enterprise step: weekly reports straight from the SQL database behind an ERP. Read-only by construction, every query audited, Logo Tiger profile included.
 
 ## For your AI agent
 
@@ -37,6 +38,7 @@
 2. **[forecast-accuracy-lab](https://github.com/gulmezeren2-byte/forecast-accuracy-lab)** — MAPE sıfır talepli ayları sessizce düşürür ve model sıralamasını değiştirir; doğruyu WMAPE, yanlılık ve FVA söyler. ([Türkçesi](https://github.com/gulmezeren2-byte/forecast-accuracy-lab/blob/main/README.tr.md))
 3. **[abc-xyz-inventory](https://github.com/gulmezeren2-byte/abc-xyz-inventory)** — emniyet stoku formülü %95 vaat eder, oynak ürünlerde %83 teslim eder. Standartlaştırmadan önce segmentlere ayırın. ([Türkçesi](https://github.com/gulmezeren2-byte/abc-xyz-inventory/blob/main/README.tr.md))
 4. **[auto-report-pipeline](https://github.com/gulmezeren2-byte/auto-report-pipeline)** — final: dürüst metrikler, her Pazartesi aynı şekilde, el değmeden. ([Türkçesi](https://github.com/gulmezeren2-byte/auto-report-pipeline/blob/main/README.tr.md))
-5. **[forecast-autoresearch](https://github.com/gulmezeren2-byte/forecast-autoresearch)** — canlı deney: bir yapay zeka ajanı naive tahmini dürüstçe yenebilir mi? Mühürlü holdout, tek düzenlenebilir dosya, insan-yönetimli program. Çıta: **+6,79**. ([Türkçesi](https://github.com/gulmezeren2-byte/forecast-autoresearch/blob/main/README.tr.md))
+5. **[forecast-autoresearch](https://github.com/gulmezeren2-byte/forecast-autoresearch)** — canlı deney: bir yapay zeka ajanı naive tahmini dürüstçe yenebilir mi? Mühürlü holdout, tek düzenlenebilir dosya, insan-yönetimli program. Çıta **+6,79** idi; iki döngü ve on deney sonra: **+8,13**. ([Türkçesi](https://github.com/gulmezeren2-byte/forecast-autoresearch/blob/main/README.tr.md))
+6. **[erp-report-engine](https://github.com/gulmezeren2-byte/erp-report-engine)** — kurumsal adım: ERP'nin arkasındaki SQL veritabanından haftalık rapor. Mimarisi gereği salt-okunur, her sorgu denetim izinde, Logo Tiger profili dahil. ([Türkçesi](https://github.com/gulmezeren2-byte/erp-report-engine/blob/main/README.tr.md))
 
 Ayrıca: yapay zeka ajanları için **[endüstri mühendisliği becerileri](https://github.com/gulmezeren2-byte/industrial-engineering-ai-skills)** ve alanın ücretsiz kaynaklarını derlediğim **[awesome-industrial-engineering](https://github.com/gulmezeren2-byte/awesome-industrial-engineering)** listesinin küratörlüğü.
