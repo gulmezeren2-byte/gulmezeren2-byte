@@ -20,8 +20,15 @@
 
 ## For your AI agent
 
+- 🛑 **[andon](https://github.com/gulmezeren2-byte/andon)** — the honesty block, turned on your AI. It re-checks the numbers an agent drafts — a report, a spreadsheet — against the data they came from, with arithmetic instead of another model: reconciliation, internal consistency and Excel integrity, stopping the line when they don't add up.
 - 🤖 **[industrial-engineering-ai-skills](https://github.com/gulmezeren2-byte/industrial-engineering-ai-skills)** — the judgment layer of the series as a full method pack: 7 skills, 4 role agents, always-on data-hygiene rules and artifact templates. Pitfalls included.
 - 🔧 **[opsaudit](https://github.com/gulmezeren2-byte/opsaudit)** — the engine room: a JSON-only CLI (OTIF, forecast backtests, ABC-XYZ, Pareto) where every result carries a mandatory honesty block. 8 end-to-end tests.
+
+## Turkish public data, made queryable
+
+*Public information that is public one document at a time — and impossible to reason across.*
+
+- 🏛️ **[ihalent](https://github.com/gulmezeren2-byte/ihalent)** — every public tender in Turkey ends with a result notice: who won, for how much, at what discount, against how many bidders. ihalent turns tens of thousands of them into firm histories, discount (kırım) distributions and competition metrics — every number traceable back to its notice.
 
 ## Also
 
@@ -41,4 +48,8 @@
 5. **[forecast-autoresearch](https://github.com/gulmezeren2-byte/forecast-autoresearch)** — canlı deney: bir yapay zeka ajanı naive tahmini dürüstçe yenebilir mi? Mühürlü holdout, tek düzenlenebilir dosya, insan-yönetimli program. Çıta **+6,79** idi; iki döngü ve on deney sonra: **+8,13**. ([Türkçesi](https://github.com/gulmezeren2-byte/forecast-autoresearch/blob/main/README.tr.md))
 6. **[erp-report-engine](https://github.com/gulmezeren2-byte/erp-report-engine)** — kurumsal adım: ERP'nin arkasındaki SQL veritabanından haftalık rapor. Mimarisi gereği salt-okunur, her sorgu denetim izinde, Logo Tiger profili dahil. ([Türkçesi](https://github.com/gulmezeren2-byte/erp-report-engine/blob/main/README.tr.md))
 
-Ayrıca: yapay zeka ajanları için **[endüstri mühendisliği becerileri](https://github.com/gulmezeren2-byte/industrial-engineering-ai-skills)** ve alanın ücretsiz kaynaklarını derlediğim **[awesome-industrial-engineering](https://github.com/gulmezeren2-byte/awesome-industrial-engineering)** listesinin küratörlüğü.
+**Yapay zeka ajanınız için** — 🛑 **[andon](https://github.com/gulmezeren2-byte/andon)**: dürüstlük bloğunu yapay zekaya çevirir; bir ajanın hazırladığı raporu/Excel'i başka bir modele değil aritmetiğe denetletir (mutabakat, iç tutarlılık, Excel bütünlüğü) ve sayılar tutmuyorsa hattı durdurur. Ayrıca **[endüstri mühendisliği becerileri](https://github.com/gulmezeren2-byte/industrial-engineering-ai-skills)** method paketi.
+
+**Türk kamu verisi, sorgulanabilir hale** — 🏛️ **[ihalent](https://github.com/gulmezeren2-byte/ihalent)**: her kamu ihalesi bir sonuç ilanıyla biter — kim, kaça, ne kırımla, kaç rakibe karşı kazandı. ihalent on binlerce ilanı firma geçmişlerine, kırım dağılımlarına ve rekabet metriklerine çevirir; her sayı kaynak ilanına kadar izlenebilir.
+
+Ayrıca alanın ücretsiz kaynaklarını derlediğim **[awesome-industrial-engineering](https://github.com/gulmezeren2-byte/awesome-industrial-engineering)** listesinin küratörlüğü.
