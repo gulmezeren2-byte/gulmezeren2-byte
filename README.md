@@ -31,6 +31,7 @@ On [PyPI](https://pypi.org/project/erp-report-engine/) · listed on the official
 - 🛑 **[andon](https://github.com/gulmezeren2-byte/andon)** — the honesty block, turned on your AI. It re-checks the numbers an agent drafts — a report, a spreadsheet — against the data they came from, with arithmetic instead of another model: reconciliation, internal consistency and Excel integrity, stopping the line when they don't add up.
 - 🤖 **[industrial-engineering-ai-skills](https://github.com/gulmezeren2-byte/industrial-engineering-ai-skills)** — the judgment layer of the series as a full method pack: 7 skills, 4 role agents, always-on data-hygiene rules and artifact templates. Pitfalls included.
 - 🔧 **[opsaudit](https://github.com/gulmezeren2-byte/opsaudit)** — the engine room: a JSON-only CLI (OTIF, forecast backtests, ABC-XYZ, Pareto) where every result carries a mandatory honesty block. 8 end-to-end tests.
+- 🛡️ **[readonly-sql-guard](https://github.com/gulmezeren2-byte/readonly-sql-guard)** — a provably read-only SQL guard for any MCP server or DB tool: it checks what a statement *calls*, not just its shape, and refuses the file reads and transaction escapes a shape-only check waves through. Measured against a 28-attack benchmark. The guard from erp-report-engine, extracted as a reusable primitive.
 
 ## Turkish public data, made queryable
 
