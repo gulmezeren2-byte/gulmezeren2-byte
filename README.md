@@ -5,6 +5,14 @@
 - 🎯 I design the questions first: KPI architecture, delivery performance (OTIF), demand & inventory analytics
 - 🛠️ I direct modern tooling — automation, analytics, AI — while the strategy, the methodology and the quality bar stay with me
 
+## 🚩 Flagship — [erp-report-engine](https://github.com/gulmezeren2-byte/erp-report-engine)
+
+[![A read-only SQL guard for AI agents you can actually prove: 28/28 attacks refused, vs 6/28 for a shape-only check](https://raw.githubusercontent.com/gulmezeren2-byte/erp-report-engine/main/docs/assets/social-card.png)](https://github.com/gulmezeren2-byte/erp-report-engine)
+
+**A *provably* read-only SQL layer for AI agents — and weekly reports — over the database behind an ERP.** The agent queries canonical entities (`orders`), never the raw ERP tables (`LG_001_01_ORFICHE`), through a guard that checks the **statement itself** — and refuses the file reads, shell calls and write-escapes a shape-only check waves through (the class of bug behind the [archived Postgres MCP server](https://github.com/modelcontextprotocol/servers-archived/tree/HEAD/src/postgres) and the Supabase "lethal trifecta"). Not asserted — **measured**: a reproducible 28-attack benchmark and an in-browser "break it" playground running the real guard.
+
+On [PyPI](https://pypi.org/project/erp-report-engine/) · listed on the official **MCP registry** · **[try to break the guard, live →](https://gulmezeren2-byte.github.io/erp-report-engine/playground.html)** · **[the benchmark →](https://gulmezeren2-byte.github.io/erp-report-engine/trust.html)**
+
 ## The measurement honesty series
 
 *Metrics should describe reality, not decorate slides.*
@@ -16,7 +24,7 @@
 3. **[abc-xyz-inventory](https://github.com/gulmezeren2-byte/abc-xyz-inventory)** — the safety-stock formula promises 95% and delivers 83% on volatile SKUs. Segment before you standardize.
 4. **[auto-report-pipeline](https://github.com/gulmezeren2-byte/auto-report-pipeline)** — the capstone: honest metrics, computed the same way and delivered every Monday, untouched by hands.
 5. **[forecast-autoresearch](https://github.com/gulmezeren2-byte/forecast-autoresearch)** — the live experiment: can an AI agent honestly beat naive forecasting? Sealed holdout, one editable file, a human-directed program. The bar was **+6.79**; two cycles and ten experiments later: **+8.13**.
-6. **[erp-report-engine](https://github.com/gulmezeren2-byte/erp-report-engine)** — the enterprise step: weekly reports straight from the SQL database behind an ERP. Read-only by construction, every query audited, Logo Tiger profile included.
+6. **[erp-report-engine](https://github.com/gulmezeren2-byte/erp-report-engine)** — the series' enterprise culmination, now the **flagship above**: measurement honesty applied to an ERP's own database, for AI agents as much as for reports — read-only *proven*, not promised.
 
 ## For your AI agent
 
@@ -46,7 +54,7 @@
 3. **[abc-xyz-inventory](https://github.com/gulmezeren2-byte/abc-xyz-inventory)** — emniyet stoku formülü %95 vaat eder, oynak ürünlerde %83 teslim eder. Standartlaştırmadan önce segmentlere ayırın. ([Türkçesi](https://github.com/gulmezeren2-byte/abc-xyz-inventory/blob/main/README.tr.md))
 4. **[auto-report-pipeline](https://github.com/gulmezeren2-byte/auto-report-pipeline)** — final: dürüst metrikler, her Pazartesi aynı şekilde, el değmeden. ([Türkçesi](https://github.com/gulmezeren2-byte/auto-report-pipeline/blob/main/README.tr.md))
 5. **[forecast-autoresearch](https://github.com/gulmezeren2-byte/forecast-autoresearch)** — canlı deney: bir yapay zeka ajanı naive tahmini dürüstçe yenebilir mi? Mühürlü holdout, tek düzenlenebilir dosya, insan-yönetimli program. Çıta **+6,79** idi; iki döngü ve on deney sonra: **+8,13**. ([Türkçesi](https://github.com/gulmezeren2-byte/forecast-autoresearch/blob/main/README.tr.md))
-6. **[erp-report-engine](https://github.com/gulmezeren2-byte/erp-report-engine)** — kurumsal adım: ERP'nin arkasındaki SQL veritabanından haftalık rapor. Mimarisi gereği salt-okunur, her sorgu denetim izinde, Logo Tiger profili dahil. ([Türkçesi](https://github.com/gulmezeren2-byte/erp-report-engine/blob/main/README.tr.md))
+6. **[erp-report-engine](https://github.com/gulmezeren2-byte/erp-report-engine)** — serinin kurumsal doruğu, artık **amiral proje**: ölçüm dürüstlüğü ERP'nin kendi veritabanına uygulanmış — raporlar kadar AI ajanları için de. Salt-okunur *kanıtlanmış*, vaat edilmemiş; halka açık 28-saldırı benchmark'ı + tarayıcıda "kır beni" oyun alanı. PyPI'da + resmî MCP registry'de. ([Türkçesi](https://github.com/gulmezeren2-byte/erp-report-engine/blob/main/README.tr.md))
 
 **Yapay zeka ajanınız için** — 🛑 **[andon](https://github.com/gulmezeren2-byte/andon)**: dürüstlük bloğunu yapay zekaya çevirir; bir ajanın hazırladığı raporu/Excel'i başka bir modele değil aritmetiğe denetletir (mutabakat, iç tutarlılık, Excel bütünlüğü) ve sayılar tutmuyorsa hattı durdurur. Ayrıca **[endüstri mühendisliği becerileri](https://github.com/gulmezeren2-byte/industrial-engineering-ai-skills)** method paketi.
 
