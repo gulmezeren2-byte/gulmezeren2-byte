@@ -41,6 +41,7 @@ On [PyPI](https://pypi.org/project/erp-report-engine/) · listed on the official
 ## Also
 
 - 📚 Curator of **[awesome-industrial-engineering](https://github.com/gulmezeren2-byte/awesome-industrial-engineering)** — every entry hand-picked for practitioner value
+- 🇹🇷 Curator of **[awesome-turkish-mcp](https://github.com/gulmezeren2-byte/awesome-turkish-mcp)** — MCP servers for Turkish data & domains (law, finance, government, academia, ERP)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/erengulmez)
 
 ## 🇹🇷 Türkçe
@@ -60,4 +61,4 @@ On [PyPI](https://pypi.org/project/erp-report-engine/) · listed on the official
 
 **Türk kamu verisi, sorgulanabilir hale** — 🏛️ **[ihalent](https://github.com/gulmezeren2-byte/ihalent)**: her kamu ihalesi bir sonuç ilanıyla biter — kim, kaça, ne kırımla, kaç rakibe karşı kazandı. ihalent on binlerce ilanı firma geçmişlerine, kırım dağılımlarına ve rekabet metriklerine çevirir; her sayı kaynak ilanına kadar izlenebilir.
 
-Ayrıca alanın ücretsiz kaynaklarını derlediğim **[awesome-industrial-engineering](https://github.com/gulmezeren2-byte/awesome-industrial-engineering)** listesinin küratörlüğü.
+Ayrıca alanın ücretsiz kaynaklarını derlediğim **[awesome-industrial-engineering](https://github.com/gulmezeren2-byte/awesome-industrial-engineering)** ve Türkçe MCP ekosistemini derlediğim **[awesome-turkish-mcp](https://github.com/gulmezeren2-byte/awesome-turkish-mcp)** listelerinin küratörlüğü.
